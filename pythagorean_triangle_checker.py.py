@@ -1,6 +1,6 @@
 # pythagorean_triangle_checker.py
 #
-# Created by Manpreet Singh for:
+# Created by Manpreet Singh 
 
 def get_triangle_sides():
     sides = []
